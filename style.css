@@ -1,0 +1,91 @@
+body {
+    color:black ;
+    background-image: url(wallpaper.jpg);
+}
+
+ul{
+    display : block;
+    text-decoration: none;
+    text-align: left;
+    margin : 0px;
+    padding: 0px;
+    list-style : none;
+    color:white ;
+}
+
+ul li {
+    float: left;
+    display: block;
+    width: 300px;
+    text-decoration: none;
+    background-color : black;
+    opacity: 0.8 ;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-family : "Arial Black", Gadget, sans-serif ;
+}
+
+ul li  a {
+    display : block;
+    text-decoration: none;
+    color: white;
+    font-family : "Arial Black", Gadget, sans-serif ;
+
+}
+
+ul li a:hover {
+    background-image: url(menu_hover.jpg) ;
+} 
+
+
+h2 {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-family : "Arial Black", Gadget, sans-serif ;
+}
+
+table {
+    background-color:grey;
+    align-items:center ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.obrazac {
+    text-align: center;
+}
+
+div.text{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color: black;
+}
+
+div.text a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+
+
+div.footer{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    text-align: center;
+    width: 50px;
+    height: 25px;
+}
+
+
+
+div.tekst{
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
